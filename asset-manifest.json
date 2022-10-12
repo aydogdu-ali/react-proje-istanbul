@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aydogdu-ali/react-proje-istanbul/static/css/main.1c6a16e0.css",
-    "main.js": "/aydogdu-ali/react-proje-istanbul/static/js/main.f630d552.js",
-    "static/js/787.84bfbf02.chunk.js": "/aydogdu-ali/react-proje-istanbul/static/js/787.84bfbf02.chunk.js",
-    "index.html": "/aydogdu-ali/react-proje-istanbul/index.html",
-    "main.1c6a16e0.css.map": "/aydogdu-ali/react-proje-istanbul/static/css/main.1c6a16e0.css.map",
-    "main.f630d552.js.map": "/aydogdu-ali/react-proje-istanbul/static/js/main.f630d552.js.map",
-    "787.84bfbf02.chunk.js.map": "/aydogdu-ali/react-proje-istanbul/static/js/787.84bfbf02.chunk.js.map"
+    "main.css": "/react-proje-istanbul/static/css/main.1c6a16e0.css",
+    "main.js": "/react-proje-istanbul/static/js/main.73e52492.js",
+    "static/js/787.84bfbf02.chunk.js": "/react-proje-istanbul/static/js/787.84bfbf02.chunk.js",
+    "index.html": "/react-proje-istanbul/index.html",
+    "main.1c6a16e0.css.map": "/react-proje-istanbul/static/css/main.1c6a16e0.css.map",
+    "main.73e52492.js.map": "/react-proje-istanbul/static/js/main.73e52492.js.map",
+    "787.84bfbf02.chunk.js.map": "/react-proje-istanbul/static/js/787.84bfbf02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c6a16e0.css",
-    "static/js/main.f630d552.js"
+    "static/js/main.73e52492.js"
   ]
 }
